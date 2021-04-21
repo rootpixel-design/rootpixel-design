@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://i.gifer.com/fetch/w300-preview/6d/6d69a76d9d0b56262184eba2ad0934d0.gif" width="50px" height="50px">
 <!--
 **rootpixel-design/rootpixel-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
