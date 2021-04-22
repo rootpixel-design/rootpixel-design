@@ -6,7 +6,7 @@ We specialize in creating classic and animated interactive websites, and for cre
 
 We do it because … we love to do it. Let us tell your story, through animations and illustrations that will make you love what you do even more.
 
-[![LinkedIn](https://www.iconfinder.com/icons/1249981/download/png/64)](https://www.linkedin.com/company/rootpixel-design) [![Twitter](https://www.iconfinder.com/icons/1249999/download/png/64)](https://twitter.com/RootPixelDesign) [![Facebook](https://www.iconfinder.com/icons/1250011/download/png/64)](https://www.facebook.com/rootpixel.design) [![Website](https://www.iconfinder.com/icons/1249990/download/png/64)](https://rootpixel.design) [![Email](https://www.iconfinder.com/icons/1249987/download/png/64)](mailto:hello@rootpixel.design) [![Call](https://www.iconfinder.com/icons/1250001/download/png/64)](tel:+385915018870)
+[![LinkedIn](https://www.iconfinder.com/icons/1249981/download/png/64)](https://www.linkedin.com/company/rootpixel-design)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Twitter](https://www.iconfinder.com/icons/1249999/download/png/64)](https://twitter.com/RootPixelDesign) [![Facebook](https://www.iconfinder.com/icons/1250011/download/png/64)](https://www.facebook.com/rootpixel.design) [![Website](https://www.iconfinder.com/icons/1249990/download/png/64)](https://rootpixel.design) [![Email](https://www.iconfinder.com/icons/1249987/download/png/64)](mailto:hello@rootpixel.design) [![Call](https://www.iconfinder.com/icons/1250001/download/png/64)](tel:+385915018870)
 <!--
 **rootpixel-design/rootpixel-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
