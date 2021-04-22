@@ -1,5 +1,7 @@
 <h3 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"> We are RootPixel Design, a brand new creative studio from Zagreb, Croatia.</h3>
 
+#
+
 We specialize in creating classic and animated interactive websites, and for creative digital design. We want to show that, regardless of the industry in which you operate, we can create something individual, creative and special for you, which will surely attract the attention of your clients and yourself.
 
 We do it because … we love to do it. Let us tell your story, through animations and illustrations that will make you love what you do even more.
